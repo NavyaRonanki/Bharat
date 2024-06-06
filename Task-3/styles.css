@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cedcb6;
+}
+
+.quiz-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f376dc;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(14, 177, 190, 110.3);
+}
+
